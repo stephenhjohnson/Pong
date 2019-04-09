@@ -10,3 +10,5 @@ To run the server execute:
 npm start
 
 A single screen multiplayer pong remake
+
+left controller uses w and s keys right controller uses up and down arrows
